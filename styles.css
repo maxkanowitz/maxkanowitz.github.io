@@ -1,0 +1,29 @@
+body {
+  background-color: #00FFFF;
+  text-align: center;
+}
+
+.content {
+  padding: 0 10%;
+}
+
+.center {
+  margin: 0 auto;
+}
+
+.margin-bottom {
+  margin-bottom: 2%;
+}
+
+.button {
+  border: solid black 1px;
+  border-radius: 8px;
+  max-width: 40%;
+  background-color: white;
+  color: black;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
